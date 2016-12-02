@@ -11,6 +11,5 @@ This new meme may be shared with others via the share button.
 </p>
 
  <h3>License</h3>
-There is no License attributed to this application.
-This application was created with guidence on how to build it by the Udacity course for iOS Development.
+There is no License attributed to this application. This application was created with guidance on how to build it by the Udacity course for iOS Development. 
 </header>
